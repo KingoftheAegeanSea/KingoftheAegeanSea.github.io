@@ -1,1 +1,0 @@
-Put your renamed PDF files in this folder. See the README.md rename table.
