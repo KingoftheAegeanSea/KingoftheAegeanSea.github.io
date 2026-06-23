@@ -368,7 +368,16 @@ ul, ol { list-style: none; }
     transition: opacity 0.4s ease;
   }
 }
+/* ============================================
+   LABS ACTIONS (Full Portfolio button)
+   ============================================ */
+.labs-actions {
+  margin: 26px 0 6px;
+}
 
+.btn-portfolio {
+  font-weight: 500;
+}
 /* ============================================
    LAB LIST
    ============================================ */
